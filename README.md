@@ -58,6 +58,7 @@ Referring to the wireframes & styletiles, create the four different pages: home,
 
 **Assets used:**
 
-- [Ceratosoma amoenum](https://www.flickr.com/photos/pacificklaus/10775531404/) by Klaus Stiefel, used under CC-BY-NC.<br>Modifications: resized.
-- [Hypselodoris bennetti](https://www.flickr.com/photos/pacificklaus/10775548234/) by Klaus Stiefel, used under CC-BY-NC.<br>Modifications: resized.
-- [Tambja verconis](https://www.flickr.com/photos/pacificklaus/10774570484/) by Klaus Stiefel, used under CC-BY-NC-SA.<br>Modifications: resized.
+- [Black Dragon Sunset](http://weird-black-cat.deviantart.com/art/Black-Dragon-Sunset-485435881) by Weird-Black-Cat, used under CC-BY-NC.<br>Modifications: resized, cropped.
+- [Sudden Strike](https://www.flickr.com/photos/blaster219/376922390/) by blaster219, used under CC-BY-NC-SA.<br>Modifications: resized, cropped.
+- [Chau kar Man](https://www.flickr.com/photos/chaukar/9483289897/) by Castlefest 2013, used under CC-BY-NC-SA.<br>Modifications: resized, cropped.
+- [12/6.2015 - the unicorn sparkle fairy's trusty steed](https://www.flickr.com/photos/julochka/18557575168/) by julochka, used under CC-BY-NC-SA.<br>Modifications: resized, cropped, top & bottom extended.
