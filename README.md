@@ -8,10 +8,12 @@ A summer review project to practice small screen layouts.
 
 ## Details
 
-- Approx. completion time: **4 hours**
+- Approx. completion time: **5 hours**
 - Deliverables: **4 HTML files, 1 CSS file, images**
 
 Referring to the wireframes & styletiles, create the four different pages: home, news, opinions, reviews.
+
+Content for the homepage is provided. Content for the inside pages should be created.
 
 ---
 
