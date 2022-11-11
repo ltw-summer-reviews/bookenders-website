@@ -1,8 +1,8 @@
 # Bookenders website
 
-A summer review project to practice small screen layouts. 
+A summer review project to practice small screen layouts.
 
-#### [⬇ Download the content](https://github.com/acgd-summer-reviews/bookenders-website/archive/master.zip)
+#### [⬇ Download the content](https://github.com/ltw-summer-reviews/bookenders-website/archive/master.zip)
 
 ---
 
@@ -34,16 +34,16 @@ Content for the homepage is provided. Content for the inside pages should be cre
 
 ## Relevant tutorials & tools
 
-- [Website file organization](http://learn-the-web.algonquindesign.ca/topics/organization/)
-- [Images for the web](http://learn-the-web.algonquindesign.ca/topics/image-formats/)
-- [Using images](http://learn-the-web.algonquindesign.ca/topics/using-images/)
-- [Images for retina screens](http://learn-the-web.algonquindesign.ca/topics/images-for-retina/)
-- **[Images cheat sheet](http://learn-the-web.algonquindesign.ca/topics/images-cheat-sheet/)**
-- [Float & clear](http://learn-the-web.algonquindesign.ca/topics/float-clear/)
-- [Position & z-index](http://learn-the-web.algonquindesign.ca/topics/position-zindex/)
-- **[CSS layout cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-layout-cheat-sheet/)**
-- [Navigation](http://learn-the-web.algonquindesign.ca/topics/navigation/)
-- [Small screen layout](http://learn-the-web.algonquindesign.ca/topics/small-screen-layout/)
+- [Website file organization](https://learntheweb.coures/topics/organization/)
+- [Images for the web](https://learntheweb.coures/topics/image-formats/)
+- [Using images](https://learntheweb.coures/topics/using-images/)
+- [Images for retina screens](https://learntheweb.coures/topics/images-for-retina/)
+- **[Images cheat sheet](https://learntheweb.coures/topics/images-cheat-sheet/)**
+- [Float & clear](https://learntheweb.coures/topics/float-clear/)
+- [Position & z-index](https://learntheweb.coures/topics/position-zindex/)
+- **[CSS layout cheat sheet](https://learntheweb.coures/topics/css-layout-cheat-sheet/)**
+- [Navigation](https://learntheweb.coures/topics/navigation/)
+- [Small screen layout](https://learntheweb.coures/topics/small-screen-layout/)
 
 ---
 
@@ -56,7 +56,7 @@ Content for the homepage is provided. Content for the inside pages should be cre
 
 ## Licenses & copyrights
 
-**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
+**[☛ Refer the the license & copyright statement](https://github.com/ltw-summer-reviews/meta#license--copyright-statement)**
 
 **Assets used:**
 
